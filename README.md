@@ -2,11 +2,11 @@
 
 ## Project Overview
 
-This project was developed as part of a university database and analytics assignment. The goal was to design and implement a relational database system for Pulse Fitness, a modern fitness center offering memberships, personal training sessions, and group fitness classes.
-The project focuses on solving real-world business problems using SQL and data analytics techniques. It demonstrates database design, data modelling, SQL development, and business reporting skills.
-The database was designed to support operational management and provide insights that help improve customer engagement, optimize resource allocation, and increase business revenue.
+The goal of this project was to design and implement a relational database system for Pulse Fitness, a modern fitness center offering memberships, personal training sessions, and group fitness classes.
 
-## Project Task
+The project demonstrates SQL database design, data modelling, business analytics, and reporting skills. The database was created to support operational management and generate insights to improve customer engagement, resource allocation, and revenue growth.
+
+## Project Objectives
 - Design a relational database for a fitness center
 - Implement tables, relationships, and constraints using SQL
 - Populate the database with realistic sample data
@@ -20,7 +20,7 @@ The database was designed to support operational management and provide insights
 - GitHub
 - Microsoft Word
 
-# Dataset Features
+# Dataset Entities
 - Members
 - Membership Plans
 - Trainers
