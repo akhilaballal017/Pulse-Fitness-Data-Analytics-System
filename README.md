@@ -20,7 +20,7 @@ The project demonstrates SQL database design, data modelling, business analytics
 - GitHub
 - Microsoft Word
 
-# Dataset Entities
+## Dataset Entities
 - Members
 - Membership Plans
 - Trainers
