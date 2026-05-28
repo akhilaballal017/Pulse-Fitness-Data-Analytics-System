@@ -29,6 +29,19 @@ The project demonstrates SQL database design, data modelling, business analytics
 - Payments
 - Attendance Records
 
+## Project Screenshots
+
+### ER Diagram
+![ER Diagram](Screenshots/er_diagram.png)
+
+### Database Schema
+![Database Schema](Screenshots/database_schema.png)
+
+### Membership Analysis Query
+![Membership Query](Screenshots/membership_query_output.png)
+
+### Trainer Workload Query
+![Trainer Query](Screenshots/trainer_workload_output.png)
 
 
 
